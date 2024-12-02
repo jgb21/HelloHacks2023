@@ -18,11 +18,11 @@ How it works:
 	- Enter vital signs.
 	- Print a report with risk categorization and recommendations.
  	- Quit the application.
-  - Menu interaction is controlled through the runApp() method.
-3.	Vitals Input (enterVital):
-	•	Prompts users to input:
-	  •	Pulse rate (per minute).
-	  •	Respiratory rate (per minute).
+- Menu interaction is controlled through the runApp() method.
+2.	Vitals Input (enterVital):
+- Prompts users to input:
+	- Pulse rate (per minute).
+	- Respiratory rate (per minute).
 	  •	Oxygen saturation (%).
 	•	Stores these values for analysis.
 4.	Exacerbation Analysis (printReport):
