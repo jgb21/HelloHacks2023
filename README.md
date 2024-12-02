@@ -15,10 +15,10 @@ How it works:
 
 1.	Menu Interface:
 - Users can:
-- Enter vital signs.
-- Print a report with risk categorization and recommendations.
-	  •	Quit the application.
-	•	Menu interaction is controlled through the runApp() method.
+	- Enter vital signs.
+	- Print a report with risk categorization and recommendations.
+ 	- Quit the application.
+  - Menu interaction is controlled through the runApp() method.
 3.	Vitals Input (enterVital):
 	•	Prompts users to input:
 	  •	Pulse rate (per minute).
