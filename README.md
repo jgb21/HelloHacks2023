@@ -23,18 +23,18 @@ How it works:
 - Prompts users to input:
 	- Pulse rate (per minute).
 	- Respiratory rate (per minute).
-	  •	Oxygen saturation (%).
-	•	Stores these values for analysis.
-4.	Exacerbation Analysis (printReport):
-	•	Uses threshold values to determine if any vital is abnormal:
-	•	Pulse Rate: ≤ 80.
-	•	Respiratory Rate: ≤ 25.
-	•	Oxygen Saturation: ≥ 95.
-	•	Categorizes patients based on observed trends and provides:
-	•	Warnings about exacerbation risks.
-	•	Suggestions to seek care if necessary.
-5.	Automated Recommendations:
-	•	Risk-based messaging:
-	  •	High-risk patients receive a notification up to 5 days prior to predicted exacerbation.
-	  •	Visual aids highlight concerning trends.
-	•	Resources provided include care facility locations, medication demonstrations, and prevention tips.
+	- Oxygen saturation (%).
+- Stores these values for analysis.
+3.	Exacerbation Analysis (printReport):
+- Uses threshold values to determine if any vital is abnormal:
+	- Pulse Rate: ≤ 80.
+	- Respiratory Rate: ≤ 25.
+	- Oxygen Saturation: ≥ 95.
+- Categorizes patients based on observed trends and provides:
+	- Warnings about exacerbation risks.
+	- Suggestions to seek care if necessary.
+4.	Automated Recommendations:
+- Risk-based messaging:
+	  - High-risk patients receive a notification up to 5 days prior to predicted exacerbation.
+	  - Visual aids highlight concerning trends.
+- Resources provided include care facility locations, medication demonstrations, and prevention tips.
